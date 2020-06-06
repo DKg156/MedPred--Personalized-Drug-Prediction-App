@@ -14,6 +14,9 @@ datasets and NumPy is used for handling two-dimensional arrays.<br>
 14
 **5. CSV :** Library for handling spreadsheet-like documents of comma-separated values (CSV) format.<br><br>
 
+# A diagram depicting flow control and functionalities of MedPred
+![Capture](https://user-images.githubusercontent.com/42437054/83949884-039bb500-a844-11ea-83bb-e39e7c7af959.PNG)
+
 # Screenshots of the app
 Home screen<br>
 ![image](https://user-images.githubusercontent.com/42437054/83779835-0fec0a80-a6aa-11ea-8305-8631d861e078.png)<br>
